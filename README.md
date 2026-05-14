@@ -24,4 +24,4 @@ This is the deliverable. It is a full MDX rewrite of the original documentation 
 
 ### 4. `ably-docs-updated.skill`: The Claude skill used during drafting
 
-This is the custom Claude Code skill file that encodes Ably's writing style guide, terminology standards, and documentation quality checklist. It was loaded into the Claude session that generated the initial draft. It is included here for transparency and reproducibility.
+This is the custom Claude Code skill file that has Ably's writing style guide, terminology standards, and documentation quality checklist. It was loaded into the Claude session that generated the initial draft. It is included here for transparency and reproducibility.
