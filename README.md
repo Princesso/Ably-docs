@@ -1,4 +1,4 @@
-# Ably docs assessment — AI Transport reconnection and recovery
+# Ably docs assessment on AI Transport reconnection and recovery
 
 This repo contains my rewrite of the [Reconnection and recovery](https://ably.com/docs/ai-transport/features/reconnection-and-recovery) page from Ably's AI Transport documentation. The task was to identify up to three issues with the original page and produce an improved version.
 
